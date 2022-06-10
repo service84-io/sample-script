@@ -16,7 +16,7 @@ limitations under the License.
 ## Usage
 This is a sample script that shows off automatic OpenAPI download and client generation for python scripts
 
-This sample script assumes that you have the [SampleService](https://github.com/service84-io/sample-service) running locally
+This sample script assumes that you have the [SampleService](https://github.com/service84-io/sample-service) running locally and have publish to service definition to you maven local repository
 
 ## Build
 This is a Python3 project that uses Gradle to generate the python client libraries
